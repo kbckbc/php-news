@@ -1,0 +1,14 @@
+body {
+    margin: auto;
+    width: 75%;
+    border: 4px dotted lavender;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
