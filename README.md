@@ -3,7 +3,7 @@
   - This is done by only me.
 
 ## Go to the NEWS SITE
-  - [**Click to the site**](http://ec2-18-216-66-127.us-east-2.compute.amazonaws.com/~bcgwak/m3g/list.php)
+  - [**Click to the site**](http://bcgwak.godohosting.com/php-news/list.php)
   - I added 2 users. Plz use below users to check my project.
   - jack@wustl.edu / jack
   - rob@wustl.edu / rob
